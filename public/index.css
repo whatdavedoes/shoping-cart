@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(226, 226, 226);
+}
+
+.container {
+    background-color: #FFF;
+}
+
+h1 {
+    color: #5c5c5c;
+}
+
+.cntr-txt {
+    text-align: center;
+}
+
+.cntr-blck{
+    display: block;
+    margin: 0 auto;
+}
+
+.statCtn{
+    display: block;
+    text-align: right;
+}
+
+.cartIco {
+    position: relative;
+    top: -5px;
+}
+
+.card {
+    width: 18rem;
+    display: block;
+    margin: 0 auto;
+}
